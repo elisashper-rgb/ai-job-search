@@ -29,7 +29,7 @@ framework_version: 1.1.1
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| Bachelor's, Psychological-Pedagogical Education (GPA 4.87/5 across graded courses) | Sep 2023 – Dec 2027 (expected; distance learning, in progress) | Moscow City University (MGPU) | Adult learning theory, developmental psychology, pedagogy, psychodiagnostics, education quality control and assessment, experimental psychology, mathematical data processing, organizational psychology, research & project methods |
+| Bachelor's, Psychological-Pedagogical Education (GPA 4.87/5 across graded courses — 13 of 15 "Excellent", while working full-time and running a business) | Sep 2023 – Dec 2027 (expected; distance learning, in progress) | Moscow City University (MGPU) | Adult learning theory, developmental psychology, pedagogy, psychodiagnostics, education quality control and assessment, experimental psychology, mathematical data processing, organizational psychology, research & project methods |
 | Video Camera Operator, 3rd Grade (Certificate) | 2022 | Moscow Film College | Video production |
 
 **In progress (2026):** Google Project Management Certificate (Coursera); Digital Product Management: Modern Fundamentals (Coursera) — not yet complete, don't claim as finished.
@@ -48,11 +48,11 @@ Moscow, Russia (hybrid)
 
 ### Co-Founder — SnapTap (B2B influencer marketing agency) (Dec 2022 – Nov 2025)
 Remote
-- Co-founded and ran a B2B agency with recurring enterprise clients including Tinkoff Bank, X5 Group, Samokat and Skillbox, running 3-5 campaigns per week.
-- Ran needs analysis with client stakeholders and turned business goals into briefs, scripts and success metrics; negotiated scope, pricing and timelines.
-- Managed a network of 450+ creators (1,400+ profiles). About 87% of integrations, including small posts, delivered on time.
-- Identified which creator types matched the most in-demand client requests and built the 450+/1,400+ database around that pattern; set up automated tracking (a bot pulling each creator's live stats directly from the source) so clients saw up-to-date metrics instantly instead of waiting on self-reported numbers — sped up client approval and kept integrations on schedule.
-- Used the tracking data to prioritize retention investment toward the top 60% of creators by profitability and demand, doubling revenue.
+- Co-founded and ran a B2B agency with recurring enterprise clients including Tinkoff Bank, X5 Group, Samokat and Skillbox, running 3-5 campaigns per week — built the business from zero while studying.
+- Owned problem discovery and requirements gathering with client stakeholders: turned business objectives into briefs, content specs and success metrics; scoped, priced and negotiated timelines on every deal.
+- Identified which creator types matched the most in-demand client requests and built a database of 450+ creators (1,400+ profiles) across multiple platforms around that pattern.
+- Designed and shipped an internal tool (automated tracking bot pulling each creator's live stats directly from the source) replacing manual, self-reported numbers — sped up client approval and reduced delivery risk.
+- Used the tool's performance data to prioritize retention investment toward the top 60% of creators by profitability and demand — doubling revenue.
 
 ## Independent Projects
 - **The Reinforcement Lens**: 17-screen scenario-based e-learning module (Articulate Rise 360) on behavioral reinforcement for frontline/middle managers in a safety-critical industry. Diagnostic (not didactic) design: a single behavior → response → visible signal → future behavior lens applied across individual, team and system scenarios; mechanism-based feedback on every answer option instead of correct/incorrect scoring. Case study: https://elisashper-rgb.github.io/the-signal-effect-course/

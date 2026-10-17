@@ -38,8 +38,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
   - Designed a 23-page learner workbook for senior nuclear-industry managers; piloted self-assessment redesign before wider rollout
   - Built an AI-assisted certification tool saving ~1.5 hours per event (50+ participants) and automated support-mission prep saving ≥2 hours per mission, both running locally for data privacy
 - **Co-Founder** (Dec 2022 - Nov 2025) - **SnapTap (B2B influencer marketing agency)** (Remote)
-  - Ran a B2B agency with enterprise clients (Tinkoff Bank, X5 Group, Samokat, Skillbox), 3-5 campaigns/week
-  - Managed a network of 450+ creators (1,400+ profiles), 87% on-time delivery
+  - Built the business from zero while studying; ran a B2B agency with enterprise clients (Tinkoff Bank, X5 Group, Samokat, Skillbox), 3-5 campaigns/week
+  - Owned problem discovery/requirements gathering with clients; built a 450+ creator network (1,400+ profiles); shipped an internal tracking tool replacing manual reporting; used its data to prioritize retention toward the top 60% of creators, doubling revenue
 
 ### Technical Skills
 - **Primary:** Instructional design, learning experience design (LXD), curriculum architecture, ADDIE model, assessment design, adult learning principles
