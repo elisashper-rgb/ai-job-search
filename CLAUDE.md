@@ -71,6 +71,15 @@ None stated.
 - Product Management: no committed niche yet; trying three bridges in parallel — L&D/learning-products inside a product company, marketing-to-product (via SnapTap background), and a pure Junior/APM track in IT or fintech
 - See `documents/target_companies/relocation_companies.csv` for a researched list of 240+ relocation-friendly companies by country/tier
 
+### Job Platforms in Use
+- **LinkedIn, Indeed** — active, covered by the automated daily scrape/search (see `.agents/skills/`)
+- **Wellfound** — registered since Sep 2026, receives weekly startup-role matches (mostly Product Designer/Manager roles); not yet in the automated CLI scraper set
+- **Hirify** (hirify.me) — CV-matching/critique tool, not a job board; paid "Plus" tier. Matches her CV against listings (including off-platform ones) rather than hosting its own job feed
+- **simplify.jobs** — job-matching aggregator, sends regular curated matches
+- **remote.co** — remote-job listings/newsletter
+- **bayt.com** — Middle East-focused job board, sends listings (relevant given UAE/Dubai is a core-priority relocation target)
+- Toptal, Deel Talent Marketplace — mentioned as in-use in prior sessions; no confirmation found in her inbox, so account status/signup email is unverified
+
 ### Deal-breakers
 - Gambling/casino industry: hard no regardless of compensation or other fit (applies even to otherwise-strong relocation employers in iGaming/trading-adjacent gambling verticals)
 - Nothing that could reflect badly on her long-term career record; informal/undeclared (off-the-books) arrangements are acceptable only as supplementary income, never as her primary/official role
