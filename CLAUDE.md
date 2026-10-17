@@ -78,6 +78,7 @@ None stated.
 - **simplify.jobs** — job-matching aggregator, sends regular curated matches
 - **remote.co** — remote-job listings/newsletter
 - **bayt.com** — Middle East-focused job board, sends listings (relevant given UAE/Dubai is a core-priority relocation target)
+- **startup.jobs** — to use; no inbox confirmation found, treat as a platform to check/register on rather than a confirmed active account
 - Toptal, Deel Talent Marketplace — mentioned as in-use in prior sessions; no confirmation found in her inbox, so account status/signup email is unverified
 
 ### Deal-breakers
