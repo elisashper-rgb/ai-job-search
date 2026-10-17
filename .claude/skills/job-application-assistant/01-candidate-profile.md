@@ -4,70 +4,81 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
-
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Elizaveta Shper
+  <!-- Her official documents list "Карлин" in the patronymic field, but this is actually a
+  given second name, not a true Russian patronymic. Not used in English-language
+  applications; noted here only so it isn't mistaken for a missing patronymic. -->
+- **Location:** Moscow, Russia
+- **Phone:** +7 925 323-01-22
+- **Email:** elisashpir@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/elisa-shper-a25029423/
+- **GitHub:** https://github.com/elisashper-rgb
+- **Status:** Currently employed (GPC/contractor arrangement), actively job-searching
+- **Constraints:** Russian citizenship only — no other citizenship or permanent residency anywhere else. This is a hard eligibility constraint for the Eligibility Gate in 04-job-evaluation.md: treat any posting that requires citizenship/PR in the target country as a hard FAIL, not a soft flag. Open to remote work and to relocating herself independently of whether the employer sponsors or requires it.
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
-
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| Russian | Native | |
+| English | C1 | |
+| German | A2 | |
+| Spanish | A1 | |
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| Bachelor's, Psychological-Pedagogical Education | Sep 2023 – Dec 2027 (expected; distance learning, in progress) | Moscow City University (MGPU) | Adult learning theory, developmental psychology, pedagogy, psychodiagnostics, education quality control and assessment, experimental psychology |
+| Video Camera Operator, 3rd Grade (Certificate) | 2022 | Moscow Film College | Video production |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+### Instructional Designer — World Association of Nuclear Operators (WANO), Moscow Centre (May 2026 – Present)
+Moscow, Russia (hybrid)
+- Found that the crisis-center emergency response regulation described required actions but had no system to qualify staff or keep competencies current. Initiated and now leads the redesign (ADDIE model): researched practices across other WANO offices, mapped required competencies to each role, built a qualification pathway, reactivating the LMS (SCORM-packaged content) for training, assessment and certification.
+- Designed a 23-page learner workbook for senior nuclear-industry managers; rewrote self-assessment questions to reduce response bias and added self-scoring; piloted in print when devices were unavailable, used pilot results before wider rollout.
+- Reworked 3 training programs in one month: strengthened the underlying theory, adapted content for audiences from different countries, aligned with brand standards.
+- Built a reusable certification tool for events with 50+ participants using AI-assisted JavaScript; saves about 1.5 hours per event and removed data-entry errors.
+- Automated preparation for WANO support missions (previously fully manual): code compiles the expert list (flags entries that arrive as images, which can't be parsed), then, after her review, generates remaining documents (ticket requests, logistics). Runs locally so personal/expert data never uploads to third-party apps. Saves at least 2 working hours per mission.
+- Prepared presentations and meeting documents for an international WANO working meeting with 60+ participants; created workbooks and training materials for other WANO conferences, based on adult learning principles.
+- Supports emergency response drills and communication exercises across nuclear facilities: scheduling, coordination with international experts, message relay during simulations.
 
-<!-- Add more roles as needed -->
+### Co-Founder — SnapTap (B2B influencer marketing agency) (Dec 2022 – Nov 2025)
+Remote
+- Co-founded and ran a B2B agency with recurring enterprise clients including Tinkoff Bank, X5 Group, Samokat and Skillbox, running 3-5 campaigns per week.
+- Ran needs analysis with client stakeholders and turned business goals into briefs, scripts and success metrics; negotiated scope, pricing and timelines.
+- Managed a network of 450+ creators (1,400+ profiles). About 87% of integrations, including small posts, delivered on time.
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+- **The Reinforcement Lens**: 17-screen scenario-based e-learning module (Articulate Rise 360) on behavioral reinforcement for frontline/middle managers in a safety-critical industry. Diagnostic (not didactic) design: a single behavior → response → visible signal → future behavior lens applied across individual, team and system scenarios; mechanism-based feedback on every answer option instead of correct/incorrect scoring. Case study: https://elisashper-rgb.github.io/the-signal-effect-course/
 
 ## Technical Skills
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+### AI & Tools
+- Claude, Claude Code, Claude Design, ChatGPT (daily use for design, prototyping, shipping faster)
+- JavaScript (AI-assisted / "vibe-coding" level — not yet solid independent fundamentals; honest limitation, not a claimed strength)
+- Articulate Rise 360, Figma, Canva, LMS platforms, Notion, Microsoft 365, Google Sheets, DaVinci Resolve
 
 ### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+- Learning needs analysis, competency and learning-outcome mapping, curriculum architecture, ADDIE model
+- Assessment design, adult learning principles, learner-centred design, pilot-and-iterate methodology, SCORM packaging
+- Stakeholder management, SME collaboration, client needs analysis, cross-border coordination
+- Video production (camera operation)
 
 ### Software & Tools
-- [TOOL_LIST]
+Articulate Rise 360, Figma, Canva, LMS (various), Notion, Microsoft 365, Google Sheets, DaVinci Resolve, JavaScript (AI-assisted)
+
+## Deal-breakers / Non-negotiables
+<!-- Used by the Deal-breaker check in 04-job-evaluation.md -->
+- **Gambling/casino industry**: hard no, regardless of compensation or other fit. Applies even to Tier-A relocation employers on her target-company list that fall in iGaming/casino/trading-adjacent gambling verticals — screen those out explicitly rather than assuming "fintech" or "trading" framing makes them safe.
+- **Nothing that could reflect badly on her long-term career record.** Informal/undeclared (off-the-books) work arrangements are acceptable only as supplementary/secondary income, never as her primary or officially-stated role — don't recommend or draft applications that would make an undeclared arrangement her main position.
 
 ## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+None.
 
 ## Awards
-- [AWARD] - [EVENT] ([YEAR])
+None stated.
 
 ## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
-More references available upon request.
+Available upon request (none on file yet).

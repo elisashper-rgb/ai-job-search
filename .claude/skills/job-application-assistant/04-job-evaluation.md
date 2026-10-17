@@ -91,9 +91,23 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+
+Relocation is desired, not a deal-breaker — the candidate is actively trying to leave Russia and will relocate herself even for a fully remote role, independent of whether the employer sponsors or requires it. So this dimension is NOT a simple commute/remote/relocation checklist; score location fit using the flexible country-tier logic below, which trades off country against salary/conditions rather than a fixed accept/reject list.
+
+**Country tiers (flexible — "each country has its own price of entry," not a rigid checklist):**
+
+- **Core priority (actively pursuing, lower bar to clear):** Cyprus, Dubai/UAE (compare against salary expectations specifically), United States (if the employer is open to visa sponsorship), Kazakhstan.
+- **Also high priority:** Australia, Ireland, and EU countries broadly — especially ones well-rated for relocators (e.g. Iceland as an example of that category).
+- **Conditional — viable only if salary/terms are good enough to offset cost of living or visa complexity:** Germany (needs genuinely strong conditions given high cost of living), Montenegro.
+- **Desirable but lower priority, personal (not primarily career-driven) reason:** South Africa.
+- **Not a primary target, but a practical fallback:** Turkey — she already has an apartment there, so it could serve as an interim/temporary base if a specific opportunity calls for it, though it isn't something to actively search for.
+- Any other country can still be worth evaluating — this is a tiered preference, not an exclusion list. If a posting is outside all of the above, score it on its own merits (salary, relocation support, conditions) rather than auto-failing it for not appearing on the list.
+
+**Scoring:**
+- Remote, no relocation required, pay and conditions acceptable: PASS
+- Relocation required/offered, in a Core or High-priority country, acceptable terms: PASS
+- Relocation required/offered, in the Conditional tier, only if salary/conditions clearly clear the higher bar described above: PASS, otherwise FLAG
+- Country not listed anywhere above: FLAG — evaluate on salary/relocation-support merits rather than auto-rejecting
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -107,21 +121,23 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Land an international remote or relocation role (see country tiers above) that gets her out of Russia
+- Build a solo, high-autonomy career positioned as "product-minded full-cycle LXD with AI-acceleration" — not tied to the nuclear industry as a niche; WANO is evidence of applied skill, not a specialization
+- In parallel, keep a genuine Product Manager track open (not EdTech-specific — open to any industry) via one of three entry bridges: L&D/learning-products inside a product company, marketing-to-product (leveraging the SnapTap background), or a pure Junior/APM track in IT or fintech. No committed niche yet — trying multiple bridges in parallel rather than picking one prematurely.
 
-**Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+**Motivation filter:**
+- Tasks that energize: finding the real problem behind a vague brief, AI-accelerated building/prototyping, research → hypothesis → design → pilot → iterate work, autonomy over how a problem gets solved
+- Tasks that drain: pure administrative/bureaucratic busywork, stagnation with no growth path, environments where contract renewal or promotion is used as leverage rather than a stable, earned arrangement
+- Non-task factors: degree of autonomy, real growth path (current role at WANO is leaving partly because promotion isn't happening and the culture doesn't fit), company genuinely open to international/remote hires
 
-**Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+**Life situation alignment:**
+- **Security**: leaving current employment is driven by lack of growth/promotion and a mismatched culture — not desperation, but there's real urgency to secure something better
+- **Flexibility**: open to full-time; a contract/freelance arrangement is acceptable as supplementary income, never as her sole/primary official role (see deal-breakers in 01-candidate-profile.md)
+- **Professional development**: prioritizes roles with a genuine growth trajectory and autonomy over ones that are merely "safe" or lateral
 
 ### 6. Salary Benchmark (Optional)
+
+**Floor:** ~$50k/year net is the baseline minimum for a role abroad, assuming housing is NOT covered separately by the employer. A full relocation package that covers housing can justify a lower cash figure — weigh total package, not base salary alone, against this floor.
 
 If the salary lookup tool is configured (`salary_data.json` exists), look up the company:
 ```

@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Elizaveta Shper
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Elizaveta Shper, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +13,67 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Elizaveta Shper
+- **Location:** Moscow, Russia (Russian citizenship only — no other citizenship/PR; hard eligibility constraint, see 04-job-evaluation.md's Eligibility Gate)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | Russian | Native |
+  | English | C1 |
+  | German | A2 |
+  | Spanish | A1 |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Currently employed (contractor/GPC arrangement), actively job-searching
+- **LinkedIn headline:** "Instructional Designer | Performance-Based Learning Design for Corporate & B2B Training | Product-Oriented | AI-Accelerated | Open to Relocation"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Bachelor's in Psychological-Pedagogical Education** (2023–2027 expected, distance learning, in progress) - Moscow City University (MGPU)
+  - Topics: Adult learning theory, developmental psychology, pedagogy, psychodiagnostics, education quality control and assessment, experimental psychology
+- **Video Camera Operator, 3rd Grade (Certificate)** (2022) - Moscow Film College
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Instructional Designer** (May 2026 - Present) - **World Association of Nuclear Operators (WANO), Moscow Centre** (Moscow, hybrid)
+  - Initiated and leads a full redesign of a crisis-center staff qualification framework (ADDIE model) after finding the existing regulation had no way to qualify or maintain role-specific competency
+  - Designed a 23-page learner workbook for senior nuclear-industry managers; piloted self-assessment redesign before wider rollout
+  - Built an AI-assisted certification tool saving ~1.5 hours per event (50+ participants) and automated support-mission prep saving ≥2 hours per mission, both running locally for data privacy
+- **Co-Founder** (Dec 2022 - Nov 2025) - **SnapTap (B2B influencer marketing agency)** (Remote)
+  - Ran a B2B agency with enterprise clients (Tinkoff Bank, X5 Group, Samokat, Skillbox), 3-5 campaigns/week
+  - Managed a network of 450+ creators (1,400+ profiles), 87% on-time delivery
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Instructional design, learning experience design (LXD), curriculum architecture, ADDIE model, assessment design, adult learning principles
+- **Secondary:** JavaScript (AI-assisted/"vibe-coding" level, not solid independent fundamentals — honest limitation), stakeholder management, client needs analysis
+- **Domain:** Corporate/B2B training, needs analysis, SCORM packaging, AI-accelerated workflows
+- **Software:** Claude, Claude Code, Claude Design, ChatGPT, Articulate Rise 360, Figma, Canva, LMS platforms, Notion, Microsoft 365, Google Sheets, DaVinci Resolve
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+None beyond the Video Camera Operator certificate above.
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+None stated.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Holland Code:** Artistic type (from self-assessment)
+- **Strengths:** Finding the real problem behind a vague brief; AI-accelerated building/prototyping; blending creativity with technical understanding and client-facing business thinking (from 3 years running SnapTap)
+- **Growth areas:** Wants to build solid independent JavaScript/HTML fundamentals rather than staying at AI-assisted level
+- **Thrives in:** High-autonomy, research → hypothesis → build → pilot → iterate environments; genuine growth path rather than stagnation
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Questioning the brief and finding the real problem, not just executing a content request
+- AI-accelerated design, prototyping, and shipping
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Instructional Design / LXD / L&D: corporate and B2B training, EdTech (not committed to EdTech as the only option — see Product track below)
+- Product Management: no committed niche yet; trying three bridges in parallel — L&D/learning-products inside a product company, marketing-to-product (via SnapTap background), and a pure Junior/APM track in IT or fintech
+- See `documents/target_companies/relocation_companies.csv` for a researched list of 240+ relocation-friendly companies by country/tier
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Gambling/casino industry: hard no regardless of compensation or other fit (applies even to otherwise-strong relocation employers in iGaming/trading-adjacent gambling verticals)
+- Nothing that could reflect badly on her long-term career record; informal/undeclared (off-the-books) arrangements are acceptable only as supplementary income, never as her primary/official role
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
