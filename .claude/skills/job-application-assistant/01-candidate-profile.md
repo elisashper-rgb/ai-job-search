@@ -92,8 +92,16 @@ Articulate Rise 360, Figma, Canva, LMS (various), Notion, Microsoft 365, Google 
 
 ## Deal-breakers / Non-negotiables
 <!-- Used by the Deal-breaker check in 04-job-evaluation.md -->
-- **Gambling/casino industry**: hard no, regardless of compensation or other fit. Applies even to Tier-A relocation employers on her target-company list that fall in iGaming/casino/trading-adjacent gambling verticals — screen those out explicitly rather than assuming "fintech" or "trading" framing makes them safe.
 - **Nothing that could reflect badly on her long-term career record.** Informal/undeclared (off-the-books) work arrangements are acceptable only as supplementary/secondary income, never as her primary or officially-stated role — don't recommend or draft applications that would make an undeclared arrangement her main position.
+
+## Flagged industries (soft — not a Deal-breaker check item)
+<!-- As of 2026-10-18: gambling/casino/iGaming is no longer a hard exclusion — she considers it
+a normal niche. Don't screen these out in the Deal-breaker check. Still surface per-posting in
+the fit evaluation: career-record/reputation risk, jurisdiction-dependent legality, and that
+iGaming postings skew toward crypto/informal payment setups (flag these explicitly under
+Payment/Compensation so the "nothing undeclared as a primary role" rule above stays enforceable
+on a case-by-case basis). -->
+- Gambling/casino/iGaming: flag the above considerations in the evaluation write-up, don't exclude.
 
 ## Publications
 None.

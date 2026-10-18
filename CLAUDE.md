@@ -82,8 +82,10 @@ None stated.
 - Toptal, Deel Talent Marketplace — mentioned as in-use in prior sessions; no confirmation found in her inbox, so account status/signup email is unverified
 
 ### Deal-breakers
-- Gambling/casino industry: hard no regardless of compensation or other fit (applies even to otherwise-strong relocation employers in iGaming/trading-adjacent gambling verticals)
 - Nothing that could reflect badly on her long-term career record; informal/undeclared (off-the-books) arrangements are acceptable only as supplementary income, never as her primary/official role
+
+### Flagged industries (not a hard exclusion — surface as a risk/reputation factor to weigh, don't filter out)
+- Gambling/casino/iGaming: no longer a hard no (as of 2026-10-18) — she considers it a normal niche. Still call out in fit evaluations: career-record/reputation risk, jurisdiction-dependent legality, and payroll practices (iGaming postings skew toward crypto/informal pay — see payment-method note below) so she can weigh it per-posting rather than being blindsided
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
