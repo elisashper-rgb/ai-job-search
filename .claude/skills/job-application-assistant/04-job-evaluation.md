@@ -110,6 +110,8 @@ Relocation is desired, not a deal-breaker — the candidate is actively trying t
 - Country not listed anywhere above: FLAG — evaluate on salary/relocation-support merits rather than auto-rejecting
 - Frequent international travel: FLAG (discuss with user)
 
+**Undisclosed salary is not a red flag.** Most postings simply don't state a number — that's normal market practice, not a signal of a bad offer. Silence on salary/conditions is **not** grounds to FLAG or downgrade this dimension: default to PASS for Core/High-priority countries and for the "country not listed" case, and add a note ("salary not disclosed — check before accepting/applying") instead of lowering the verdict. Only FLAG on salary grounds when a number (or a clear range) is actually stated and it falls short of the floor below, or when the Conditional-tier country's higher bar genuinely isn't met by what *is* disclosed.
+
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
 
@@ -137,7 +139,7 @@ Does this role advance career goals and contain tasks that energize?
 
 ### 6. Salary Benchmark (Optional)
 
-**Floor:** ~$50k/year net is the baseline minimum for a role abroad, assuming housing is NOT covered separately by the employer. A full relocation package that covers housing can justify a lower cash figure — weigh total package, not base salary alone, against this floor.
+**Floor:** ~$50k/year net is the baseline minimum for a role abroad, assuming housing is NOT covered separately by the employer. A full relocation package that covers housing can justify a lower cash figure — weigh total package, not base salary alone, against this floor. This floor only applies when a number is actually stated or benchmarked (via the lookup tool below) — a posting that simply doesn't mention salary has nothing to compare against the floor, and that silence must not be scored as if it failed the floor (see the Location & Logistics scoring note above).
 
 If the salary lookup tool is configured (`salary_data.json` exists), look up the company:
 ```
