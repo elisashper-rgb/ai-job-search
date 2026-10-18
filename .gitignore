@@ -119,3 +119,7 @@ company_research/*.json
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+
+# Scratch output from the deep-research skill - not part of the toolkit
+research_notes/
+reports/
