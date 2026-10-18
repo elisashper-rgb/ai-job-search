@@ -74,6 +74,25 @@ site:wellfound.com OR site:indeed.com "content marketing manager" OR "content st
 site:linkedin.com/jobs "marketing" "creator" OR "influencer" B2B remote
 ```
 
+### Priority 5: Russian-origin, globally-remote companies (visa/citizenship-risk-free tier)
+
+Added 2026-10-18 after the Aviasales/Travelpayouts "Product Manager (Expanse)" posting scored 81/100 (Strong Fit) — the best fit found all session. These are companies founded in Russia/CIS that now run genuinely international, pay-in-USD, work-from-anywhere operations. They already know how to employ Russian citizens remotely while doing international business, so the Eligibility Gate's citizenship/visa risk is effectively zero — a different (and for her, lower-risk) angle than the country-tier relocation logic in `04-job-evaluation.md`, which still applies normally to the country itself if relocation is involved. Check each company's own careers page directly (most don't have a strong presence on `site:` search engines) for ID/LXD, PM/APM, and marketing/creator-economy roles:
+
+```
+Aviasales / Travelpayouts careers
+Avito careers (international arm)
+Ozon careers
+Wildberries careers
+inDrive careers
+Miro careers
+Nebius careers
+Playrix careers
+Skyeng careers
+ЮMoney / YooMoney careers
+```
+
+This list is a starting point, not exhaustive — add any other Russian-founded company with a confirmed global-remote, pay-in-hard-currency setup as they turn up.
+
 ## Location Filter
 
 Not a commute radius — see `04-job-evaluation.md`'s flexible country-tier logic (Core priority: Cyprus, Dubai/UAE, US with sponsorship, Kazakhstan; High: Australia, Ireland, EU; Conditional: Germany, Montenegro; lower-priority: South Africa, Turkey). A genuinely global-remote posting with no relocation involved always passes regardless of country. The Eligibility Gate (citizenship/PR/visa wording) is run by `/rank`'s full evaluation, not by `/scrape`'s quick fit pass — `/scrape` should surface a posting and flag the country, not silently drop it.
